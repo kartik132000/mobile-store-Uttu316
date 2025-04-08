@@ -4,6 +4,6 @@ const products = [
   { id: 3, name: "Mobile 3", description: "Description 3", price: "$400" },
   { id: 4, name: "Mobile 4", description: "Description 3", price: "$400" },
   { id: 5, name: "Mobile 5", description: "Description 3", price: "$400" },
-];
+]; 
 
 export default products;
